@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRESTApiWeb", "TestRESTApiWeb\TestRESTApiWeb.csproj", "{295CF2D3-B6CD-4DED-8749-8A451E3F826C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295CF2D3-B6CD-4DED-8749-8A451E3F826C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295CF2D3-B6CD-4DED-8749-8A451E3F826C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295CF2D3-B6CD-4DED-8749-8A451E3F826C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295CF2D3-B6CD-4DED-8749-8A451E3F826C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E589719D-A738-45FB-807E-02A6CA8536EC}
+	EndGlobalSection
+EndGlobal
